@@ -5,7 +5,7 @@ import Link from 'next/link';
 
 export default function Navbar() {
   return (
-    <nav className="flex justify-between items-center p-4 bg-white border-b">
+    <nav className="flex justify-between items-center p-4">
     
       <div className="flex gap-4">
       
